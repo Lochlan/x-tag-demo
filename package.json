@@ -1,0 +1,16 @@
+{
+  "name": "x-tag-demo",
+  "version": "0.0.0",
+  "description": "Messing around with X-Tag",
+  "main": "index.js",
+  "dependencies": {
+    "bower": "x.x.x",
+    "grunt-cli": "x.x.x",
+    "grunt": "x.x.x",
+    "grunt-smush-components": "x.x.x",
+    "grunt-contrib-concat": "x.x.x",
+    "grunt-contrib-jshint": "x.x.x"
+  },
+  "author": "Lochlan McIntosh <lochlan.mcintosh@gmail.com>",
+  "license": "MIT"
+}

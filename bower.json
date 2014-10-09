@@ -1,0 +1,14 @@
+{
+  "name": "x-tag-demo",
+  "version": "0.0.0",
+  "authors": [
+    "Lochlan McIntosh <lochlan.mcintosh@gmail.com>"
+  ],
+  "description": "Messing around with X-Tag",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "x-tag-core": "x.x.x",
+    "x-tag-accordion": "x.x.x"
+  }
+}
